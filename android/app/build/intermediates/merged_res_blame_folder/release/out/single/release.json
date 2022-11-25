@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_assets_images_test.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/assets_images_test.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_assets_images_clock.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/assets_images_clock.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/mipmap-xhdpi_ic_calculate_round.png.flat",
+        "source": "com.umnojay.app-main-29:/mipmap-xhdpi/ic_calculate_round.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/mipmap-mdpi_ic_calculate.png.flat",
+        "source": "com.umnojay.app-main-29:/mipmap-mdpi/ic_calculate.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/mipmap-mdpi_ic_calculate_round.png.flat",
+        "source": "com.umnojay.app-main-29:/mipmap-mdpi/ic_calculate_round.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/mipmap-hdpi_ic_calculate_round.png.flat",
+        "source": "com.umnojay.app-main-29:/mipmap-hdpi/ic_calculate_round.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_assets_images_left.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/assets_images_left.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/mipmap-xxhdpi_ic_calculate.png.flat",
+        "source": "com.umnojay.app-main-29:/mipmap-xxhdpi/ic_calculate.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/mipmap-hdpi_ic_calculate.png.flat",
+        "source": "com.umnojay.app-main-29:/mipmap-hdpi/ic_calculate.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/mipmap-xxhdpi_ic_calculate_round.png.flat",
+        "source": "com.umnojay.app-main-29:/mipmap-xxhdpi/ic_calculate_round.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/mipmap-xxxhdpi_ic_calculate.png.flat",
+        "source": "com.umnojay.app-main-29:/mipmap-xxxhdpi/ic_calculate.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_assets_images_right.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/assets_images_right.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_assets_images_book.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/assets_images_book.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/mipmap-xxxhdpi_ic_calculate_round.png.flat",
+        "source": "com.umnojay.app-main-29:/mipmap-xxxhdpi/ic_calculate_round.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_assets_images_home.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/assets_images_home.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/mipmap-xhdpi_ic_calculate.png.flat",
+        "source": "com.umnojay.app-main-29:/mipmap-xhdpi/ic_calculate.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_assets_images_settings.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/assets_images_settings.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_assets_images_backspace.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/assets_images_backspace.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_assets_images_task.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/assets_images_task.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.umnojay.app-main-29:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-28:/drawable-mdpi_assets_images_rocket.png.flat",
+        "source": "com.umnojay.app-react-23:/drawable-mdpi/assets_images_rocket.png"
+    }
+]

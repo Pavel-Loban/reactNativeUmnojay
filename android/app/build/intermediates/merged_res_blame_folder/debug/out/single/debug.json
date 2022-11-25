@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.umnojay.app-merged_res-29:/mipmap-xhdpi_ic_calculate.png.flat",
+        "source": "com.umnojay.app-main-31:/mipmap-xhdpi/ic_calculate.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-29:/mipmap-xxxhdpi_ic_calculate_round.png.flat",
+        "source": "com.umnojay.app-main-31:/mipmap-xxxhdpi/ic_calculate_round.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-29:/mipmap-xhdpi_ic_calculate_round.png.flat",
+        "source": "com.umnojay.app-main-31:/mipmap-xhdpi/ic_calculate_round.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-29:/mipmap-xxhdpi_ic_calculate.png.flat",
+        "source": "com.umnojay.app-main-31:/mipmap-xxhdpi/ic_calculate.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-29:/mipmap-hdpi_ic_calculate_round.png.flat",
+        "source": "com.umnojay.app-main-31:/mipmap-hdpi/ic_calculate_round.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-29:/mipmap-hdpi_ic_calculate.png.flat",
+        "source": "com.umnojay.app-main-31:/mipmap-hdpi/ic_calculate.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-29:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.umnojay.app-main-31:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-29:/mipmap-mdpi_ic_calculate.png.flat",
+        "source": "com.umnojay.app-main-31:/mipmap-mdpi/ic_calculate.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-29:/mipmap-mdpi_ic_calculate_round.png.flat",
+        "source": "com.umnojay.app-main-31:/mipmap-mdpi/ic_calculate_round.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-29:/mipmap-xxxhdpi_ic_calculate.png.flat",
+        "source": "com.umnojay.app-main-31:/mipmap-xxxhdpi/ic_calculate.png"
+    },
+    {
+        "merged": "com.umnojay.app-merged_res-29:/mipmap-xxhdpi_ic_calculate_round.png.flat",
+        "source": "com.umnojay.app-main-31:/mipmap-xxhdpi/ic_calculate_round.png"
+    }
+]
